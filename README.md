@@ -31,3 +31,7 @@ nameservers: Định nghĩa các máy chủ DNS để phân giải tên miền.
 addresses: Các địa chỉ IP của máy chủ DNS (ở đây là của Google: 8.8.8.8 và 8.8.4.4).
 
 version: 2: Phiên bản của cấu hình NetPlan.
+
+# netplan apply 
+sau đó ping tới google và check ip a
+
